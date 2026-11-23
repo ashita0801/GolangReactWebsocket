@@ -12,7 +12,12 @@
     "web-vitals": "^2.1.4"
   },
   "overrides": {
-  "underscore": "1.13.8"
+    "glob": "10.5.0",
+    "nth-check": "2.0.1",
+    "postcss": "8.5.12",
+    "serialize-javascript": "7.1.3",
+    "svgo": "2.8.4",
+    "underscore": "1.13.8"
   },
   "scripts": {
     "start": "react-scripts start",
